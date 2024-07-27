@@ -1,4 +1,4 @@
-# Code Keyword Extraction Tool
+# Code Keyword Extraction Tool (C-KET)
 
 ## Overview
 
