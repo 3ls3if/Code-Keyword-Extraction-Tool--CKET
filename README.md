@@ -31,7 +31,7 @@ Then, run:
 
    Run the script and provide the path to your source code file as an argument:
 
-       python script.py <path_to_source_code_file>
+       python keyword_extractor.py <path_to_source_code_file>
 
    Replace `<path_to_source_code_file>` with the path to your Python source code file.
 
@@ -41,7 +41,7 @@ Then, run:
 
 ### Example
 
-    python script.py example_code.py
+    python keyword_extractor.py example_code.py
 
 If the file path is not provided via command line, you will be prompted to enter it manually after running the script.
 
